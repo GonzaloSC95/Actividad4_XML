@@ -1,4 +1,4 @@
-Requerimiento 1
+# Requerimiento 1
 
 Crea una clase llamada Principal, con método main() que creará un archivo llamado concierto.xml con el siguiente contenido:
 
@@ -10,7 +10,7 @@ Dentro del mismo proyecto, crea otra clase con método main() llamada LecturaXML
 
 Valoración: 6 puntos sobre 10
 
-Requerimiento 2
+# Requerimiento 2
 
 El objetivo ahora será trabajar con un XML, pero con las librerías de JAXB.
 
