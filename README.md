@@ -6,7 +6,7 @@ Crea una clase llamada Principal, con método main() que creará un archivo llam
 
 Dentro del mismo proyecto, crea otra clase con método main() llamada LecturaXML que lea el fichero anteriormente creado, generando la siguiente salida en pantalla:
 
-![](https://campus.edix.com/courses/974/files/61862/preview)
+![](https://github.com/GonzaloSC95/Actividad4_XML/blob/af42586dadda1ab62798791f49021bb9d6d00bb7/AD_2.jpg)
 
 Valoración: 6 puntos sobre 10
 
